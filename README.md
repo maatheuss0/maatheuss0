@@ -1,4 +1,3 @@
-
 ### Welcome! 👋
 I am a Systems Development student at Senai, I am looking for knowledge and intending to enter the area!
 - 🔭 I'm currently just studying, improving my knowledge
