@@ -20,6 +20,6 @@ I am a Systems Development student at Senai, I am looking for knowledge and inte
 
 ## Total de visitas no meu perfil :detective:
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/maatheuss0/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
  </p>
 
