@@ -2,7 +2,7 @@
 I am a Systems Development student at Senai, I am looking for knowledge and intending to enter the area!
 - 🔭 I'm currently just studying, improving my knowledge
 - 🌱 Student at SENAI-SP, I have skills in several programming languages
-- 🤝 I studied open to proposals, even with knowledge, I intend to work in the front end!
+- 🤝 I studied open to proposals, even with knowledge, I intend to work in the Back-end!
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=maatheuss0)
 
