@@ -18,7 +18,7 @@ I am a Systems Development student at Senai, I am looking for knowledge and inte
 
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Total de visitas no meu perfil :detective:
+## Total visits to my profile :detective:
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/maatheuss0/count.svg" />
  </p>
